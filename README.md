@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my journey
 - 📫 How to reach me _
 - 😄 Pronouns: him
-- ⚡ Fun fact: i am actually a pro hiding in plain sight
+- ⚡ Fun fact: Him
 - Gonna be real fun here ! 
 
 <!---
