@@ -1,11 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/46/9e/57/469e57cb6b2d66a5d470f2a8dd9c45fe.gif)
-<h1 align="center">Hi 👋, I'm JF</h1>
+
+<h1 align="center">Hi🎇, I'm JF</h1>
 <h3 align="center">JF-21</h3>
-<img alig="right" alt="Coding" width "400" src="  https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
+<img alig="left" alt="Coding" width "400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=0e75b6&style=flat" alt="jf-2121" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=0e75b6&style=flat" alt="jf-2121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jf-2121" alt="jf-2121" /></a> </p>
 
 - 🔭 I’m currently working on **Becomming Java Pro**
 
@@ -17,7 +16,6 @@
 
 - ⚡ Fun fact **I am actually a 🤖**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
