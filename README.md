@@ -21,7 +21,6 @@
 <a href="https://www.flutter.com/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" alt="flutter" width="40" height="40"/> </a> </a> </p>
 
 
-https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png
 
 
 <a href="">
