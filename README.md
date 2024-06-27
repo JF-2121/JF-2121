@@ -18,8 +18,7 @@
 
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/393/23393-middle.png" alt="dart" width="40" height="40"/> </a> 
 
-<a href="https://www.flutter.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JF-2121/JF-2121/assets/148495027/ea560d9b-2af6-499e-8223-1565a271b8de
-" alt="flutter" width="40" height="40"/> </a> </a> </p>
+<a href="https://www.flutter.com/" target="_blank" rel="noreferrer"> <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" alt="flutter" width="40" height="40"/> </a> </a> </p>
 
 
 https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png
