@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Stuff**
 
-- 🌱 I’m currently learning **Java** / **Dart**
+- 🌱 I’m currently learning **Java** 🤖 / **Dart** 🎯 / **Pyhton** 🐍
 
 - 👯 I’m looking to collaborate on **Everything (Game Dev Projects=)**
 
