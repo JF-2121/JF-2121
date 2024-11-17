@@ -23,5 +23,5 @@
 
 
 <a href="">
-<img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=gruvbox&hide_border=true&background=FFFFFF00&count_private=true" />
+<img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" />
 </a>
