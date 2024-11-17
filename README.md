@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=0e75b6&style=flat" alt="jf-2121" /> </p>
 
-- 🔭 I’m currently working on **Stuff**
+- 🔭 I’m currently working on **Uni/Company**
 
 - 🌱 I’m currently learning **Java** 🤖 / **Dart** 🎯 / **Pyhton** 🐍
 
@@ -23,5 +23,5 @@
 
 
 <a href="">
-<img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=tokyonight&hide_border=true&background=FFFFFF00&count_private=true" />
+<img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=gruvbox&hide_border=true&background=FFFFFF00&count_private=true" />
 </a>
