@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4e73df;">👨‍💻 JF-21</h1>
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=0e75b6&style=flat" alt="jf-2121" />
+  <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=plastic" alt="jf-2121" />
 </p>
 
 <p align="center" style="font-size: 18px; color: #5a5a5a;"> 
