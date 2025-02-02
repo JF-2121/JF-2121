@@ -53,12 +53,6 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" height="50" style="border-radius: 12px; margin: 5px;" />
   </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://image.pngaaa.com/393/23393-middle.png" alt="dart" width="50" height="50" style="border-radius: 12px; margin: 5px;" />
-  </a> 
-  <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" alt="flutter" width="50" height="50" style="border-radius: 12px; margin: 5px;" />
-  </a>
 </p>
 
 <hr style="border: 1px solid #4e73df; width: 80%; margin: 20px auto;" />
