@@ -57,7 +57,7 @@
 
 <hr style="border: 1px solid #4e73df; width: 80%; margin: 20px auto;" />
 
-<h3 align="center" style="color: #4e73df;">📊 GitHub Stats</h3>
+<h3 align="left" style="color: #4e73df;">📊 GitHub Stats</h3>
 <a href="">
-  <img align="center" width="1000" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" />
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" />
 </a>
