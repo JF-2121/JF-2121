@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size: 18px; color: #5a5a5a;"> 
-  🚀 I’m currently working on **Uni/Company** <br> 🌱 I’m learning **Java** 🤖 / **Dart** 🎯 / **Python** 🐍 <br> 🤝 Looking to collaborate on **Everything (Game Dev Projects)** 
+  🚀 I’m currently working on <b>Uni/Company</b> <br> 🌱 I’m learning <b>Java</b> 🤖 / <b>Dart</b> 🎯 / <b>Python</b> 🐍 <br> 🤝 Looking to collaborate on <b>Everything (Game Dev Projects)</b>
 </p>
 
 <hr style="border: 1px solid #4e73df; width: 80%; margin: 20px auto;" />
