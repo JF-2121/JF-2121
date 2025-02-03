@@ -67,7 +67,7 @@
   </a>
   <span style="display:inline-block; width:20px;"></span>
   <a href="">
-    <img width="395" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-2121&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-2121&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
