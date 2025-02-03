@@ -60,17 +60,15 @@
 
 <!-- GitHub Stats -->
 <h3 align="center" style="color: #4e73df;">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" width="500" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-2121&layout=compact" width="500" alt="Top Languages" />
-</p>
-
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <a href="https://ghchart.rshah.ru/jf-2121" target="_blank" rel="noreferrer">
-    <img src="https://ghchart.rshah.ru/jf-2121" width="500" alt="GitHub Contribution Graph" />
+<div align="center">
+  <a href="">
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" alt="GitHub Stats" />
   </a>
-</p>
+  <span style="display:inline-block; width:20px;"></span>
+  <a href="">
+    <img width="395" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-2121&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+
