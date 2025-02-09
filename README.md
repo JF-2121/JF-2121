@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" style="color: #4e73df;">👨‍💻 JF-21</h1>
+<h1 align="center" style="color: #4e73df;">👨‍💻 Josh</h1>
 
 <!-- Profile Views -->
 <p align="right">
