@@ -54,6 +54,9 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" height="50" style="margin: 5px;" />
   </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50" style="margin: 5px;" />
+  </a>
 </p>
 
 <hr style="border: 1px solid #4e73df; width: 80%; margin: 20px auto;" />
