@@ -14,10 +14,9 @@
 <h3>🛠️ My Tech Toolbox</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,github,wasm,vscode,linux,html,css,figma,notion,flutter,androidstudio,unity,unreal,blender,grafana,docker,linux,windows,apple," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,github,wasm,vscode,linux,html,css,figma,notion,flutter,androidstudio,unity,unreal,blender,grafana,prometheus,docker,linux,windows,apple," />
   </a>
 </p>
-
 
 ---
 <!-- About Me -->
@@ -26,13 +25,6 @@
 - 🏢 Working on Frontend, Backend and language design projects at **Technical University of Darstadt & Freelance**
 - 🔍 Passionate about **low-level development**, **language parsing**, and **game engine systems**
 - 💬 Ask me about **Java, C, Compiler Construction, Game Dev & Automation**
----
-
-<!-- What I'm Doing -->
-### ⚒️ Current Projects
-- 🧠 Building a Matrix-Vector-based compiler `MAVLC`
-- 🎮 Creating a modular RPG engine with **Unity + C#**
-- 📈 Exploring system metrics visualization with **Grafana + Prometheus**
 ---
 
 
@@ -45,4 +37,9 @@
 </div>
 
 ---
-
+<!-- What I'm Doing -->
+### ⚒️ Current Projects
+- 🧠 Building a Matrix-Vector-based compiler `MAVLC`
+- 🎮 Creating a modular RPG engine with `Unity + C#`
+- 📈 Exploring system metrics visualization with `Grafana + Prometheus`
+---
