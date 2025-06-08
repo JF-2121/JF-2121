@@ -18,14 +18,12 @@
 </p>
 
 ---
-
 <!-- About Me -->
 ### 👨‍💻 About Me
 - 🎓 Currently studying **Computer Science**
-- 🏢 Working on compiler and language design projects at **University & Freelance**
+- 🏢 Working on Frontend, Backend and language design projects at **Technical University of Darstadt & Freelance**
 - 🔍 Passionate about **low-level development**, **language parsing**, and **game engine systems**
 - 💬 Ask me about **Java, C, Compiler Construction, Game Dev & Automation**
-
 ---
 
 <!-- What I'm Doing -->
@@ -33,7 +31,6 @@
 - 🧠 Building a Matrix-Vector-based compiler `MAVLC`
 - 🎮 Creating a modular RPG engine with **Unity + C#**
 - 📈 Exploring system metrics visualization with **Grafana + Prometheus**
-
 ---
 
 
