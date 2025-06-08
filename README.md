@@ -67,6 +67,7 @@
 <div align="center">
   <a href="">
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" alt="GitHub Stats" />
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00" />
   </a>
   <span style="display:inline-block; width:20px;"></span>
   <a href="">
