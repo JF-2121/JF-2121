@@ -1,13 +1,3 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile Views" />
-</p>
-
-<!-- Title -->
-<h1 align="center" style="color: #2C3E50;">😎 Josh</h1>
-<p align="center">
-  <em>Developer | Java-Dev | System-Level Explorer</em>
-</p>
 
 
 <!-- Tech Stack -->
