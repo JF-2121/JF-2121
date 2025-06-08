@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center" style="color: #2C3E50;">🚀 Josh</h1>
+<h1 align="center" style="color: #2C3E50;">🤖 Josh</h1>
 <p align="center">
   <em>Developer | Java-Dev | System-Level Explorer</em>
 </p>
