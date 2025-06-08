@@ -2,7 +2,14 @@
 <h1 align="center" style="color: #4e73df;">👨‍💻 Josh</h1>
 
 <!-- Profile Views -->
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 <p align="right">
+  
   <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=plastic" alt="jf-2121" />
 </p>
 
@@ -55,19 +62,25 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" height="50" style="margin: 5px;" />
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50" style="margin: 5px;" />
   </a>
+  
 </p>
 
 <hr style="border: 1px solid #4e73df; width: 80%; margin: 20px auto;" />
 
 <!-- GitHub Stats -->
+
+
 <h3 align="center" style="color: #4e73df;">📊 GitHub Stats</h3>
 
 <div align="center">
   <a href="">
     <img width="500" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00&count_private=true" alt="GitHub Stats" />
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00" />
+  </a>
+  <a href="">
+        <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=jf-2121&theme=cobalt&hide_border=true&background=FFFFFF00" />
   </a>
   <span style="display:inline-block; width:20px;"></span>
   <a href="">
