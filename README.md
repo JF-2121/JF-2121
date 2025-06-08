@@ -10,12 +10,14 @@
 </p>
 
 
-
 <!-- Tech Stack -->
 <h3>🛠️ My Tech Toolbox</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,vscode,linux,html,css,figma,androidstudio,unity,unreal,grafana" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,github,wasm,vscode,linux,html,css,figma,notion,flutter,androidstudio,unity,unreal,blender,grafana,docker,linux,windows,apple," />
+  </a>
 </p>
+
 
 ---
 <!-- About Me -->
@@ -32,7 +34,6 @@
 - 🎮 Creating a modular RPG engine with **Unity + C#**
 - 📈 Exploring system metrics visualization with **Grafana + Prometheus**
 ---
-
 
 
 <!-- GitHub Stats -->
