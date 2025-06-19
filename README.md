@@ -33,7 +33,6 @@
 <h3 align="center" style="color: #2C3E50;">📊 GitHub Analytics</h3>
 <div align="center">
   <img width="450" src="https://github-readme-stats.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" />
-  [//]: <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=jf-2121&mode=weekly&theme=radical&hide_border=true" />
   <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
