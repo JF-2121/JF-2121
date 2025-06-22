@@ -15,7 +15,7 @@
 <h3>🛠️ My Tech Toolbox</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,github,wasm,vscode,html,css,ruby,figma,notion,flutter,androidstudio,unity,unreal,blender,grafana,prometheus,docker,linux,windows,apple," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,git,github,wasm,vscode,html,css,ruby,rails,figma,notion,flutter,androidstudio,unity,unreal,blender,grafana,prometheus,docker,linux,windows,apple," />
   </a>
 </p>
 
