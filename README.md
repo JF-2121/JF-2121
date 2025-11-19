@@ -22,7 +22,7 @@
 ---
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 🎓 Currently studying **Computer Science**
+- 🎓 Currently studying **B.Sc. - Computer Science**
 - 🏢 Working on Frontend, Backend and language design projects at **Technical University of Darstadt & Freelance**
 - 🔍 Passionate about **low-level development**, **language parsing**, and **game engine systems**
 - 💬 Ask me about **Java, C, Compiler Construction, Game Dev & Automation**
