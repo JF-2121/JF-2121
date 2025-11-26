@@ -30,20 +30,10 @@
 
 
 <!-- GitHub Stats -->
-<h1 align="center">✨ My GitHub Insights ✨</h1>
+<h3 align="center" style="color: #2C3E50;">📊 GitHub Analytics</h3>
 <div align="center">
-  <img 
-    width="450" 
-    src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=synthwave&hide_border=true&count_private=true&show_icons=true&hide_title=true&border_radius=10&number_format=long" 
-    alt="jf-2121's GitHub Stats" 
-    style="margin: 5px;" 
-  />
-  <img 
-    width="450" 
-    src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=synthwave&hide_border=true&hide_title=true&border_radius=10" 
-    alt="jf-2121's Top Languages" 
-    style="margin: 5px;" 
-  />
+  <img width="450" src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" />
+  <img width="450" src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
