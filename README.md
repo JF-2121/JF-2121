@@ -33,11 +33,22 @@
 <h1 align="center">✨ My GitHub Insights ✨</h1>
 <p align="center">A glimpse into my coding journey and favorite languages.</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" alt="jf-2121's GitHub Stats" style="width: 100%; max-width: 450px; margin: 5px;" />
-  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true" alt="jf-2121's Top Languages" style="width: 100%; max-width: 450px; margin: 5px;" />
-</p>
+<div align="center">
+  <img 
+    width="450" 
+    src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=synthwave&hide_border=true&count_private=true&show_icons=true&hide_title=true&border_radius=10&number_format=long" 
+    alt="jf-2121's GitHub Stats" 
+    style="margin: 5px;" 
+  />
 
+  <img 
+    width="450" 
+    src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=synthwave&hide_border=true&hide_title=true&border_radius=10" 
+    alt="jf-2121's Top Languages" 
+    style="margin: 5px;" 
+  />
+</div>
+can you make this more pretty ? like keep the coloring but maybe change some things up make it more fancy
 ---
 <!-- What I'm Doing -->
 ### ⚒️ Current Projects
