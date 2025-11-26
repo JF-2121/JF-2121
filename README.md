@@ -30,11 +30,13 @@
 
 
 <!-- GitHub Stats -->
-<h3 align="center" style="color: #2C3E50;">📊 GitHub Analytics</h3>
-<div align="center">
-  <img width="450" src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" />
-  <img width="450" src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true"/>
-</div>
+<h1 align="center">✨ My GitHub Insights ✨</h1>
+<p align="center">A glimpse into my coding journey and favorite languages.</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" alt="jf-2121's GitHub Stats" style="width: 100%; max-width: 450px; margin: 5px;" />
+  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true" alt="jf-2121's Top Languages" style="width: 100%; max-width: 450px; margin: 5px;" />
+</p>
 
 ---
 <!-- What I'm Doing -->
