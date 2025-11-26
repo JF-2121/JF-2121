@@ -31,8 +31,6 @@
 
 <!-- GitHub Stats -->
 <h1 align="center">✨ My GitHub Insights ✨</h1>
-<p align="center">A glimpse into my coding journey and favorite languages.</p>
-
 <div align="center">
   <img 
     width="450" 
@@ -40,7 +38,6 @@
     alt="jf-2121's GitHub Stats" 
     style="margin: 5px;" 
   />
-
   <img 
     width="450" 
     src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=synthwave&hide_border=true&hide_title=true&border_radius=10" 
@@ -48,7 +45,7 @@
     style="margin: 5px;" 
   />
 </div>
-can you make this more pretty ? like keep the coloring but maybe change some things up make it more fancy
+
 ---
 <!-- What I'm Doing -->
 ### ⚒️ Current Projects
