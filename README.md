@@ -47,9 +47,9 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,java,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=9146FF&height=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=9146FF&height=70" width="100%"/>
 </div>
