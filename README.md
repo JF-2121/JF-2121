@@ -38,7 +38,7 @@
 
 <br>
 
-- 🧠 **MAVLC** – A Matrix-Vector-based compiler built from scratch.
+- 🧠 **C++** – Optimizing and Building a modern Parallel C++ Pipeline.
 - 🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
 - 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
 
