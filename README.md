@@ -43,10 +43,10 @@
 - 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
 
 ---
-
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
+  <br></br>
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,java,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
