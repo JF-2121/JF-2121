@@ -31,8 +31,8 @@
 
 <h3 align="center" style="color: #2C3E50;">📊 GitHub Analytics</h3>
 <div align="center">
-  <img width="450" src="https://github-readme-stats-uy3bb6yir-jf-21s-projects.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" />
-  <img width="450" src="https://github-readme-stats-uy3bb6yir-jf-21s-projects.vercel.app/api/top-langs/?username=jf-2121&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true"/>
+  <img width="450" src="https://github-readme-stats-uy3bb6yir-jf-21s-projects.vercel.app&theme=radical&hide_border=true&count_private=true&show_icons=true" />
+  <img width="450" src="https://github-readme-stats-uy3bb6yir-jf-21s-projects.vercel.app&hide=html,javascript,java,css&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ---
