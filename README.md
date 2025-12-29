@@ -20,19 +20,23 @@
 ---
 
 <div align="center">
-
-### 👨‍💻 About Me
+  <h3>👨‍💻 About Me</h3>
 </div>
+
+<br>
 
 - 🎓 Currently studying **B.Sc. - Computer Science**
 - 🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
 - 🔍 Passionate about **Low-Level Development**, **Parsers**, and **Game Engines**
 - 💬 Ask me about **Java, C++, Compiler Construction & Automation**
 
-<div align="center">
+<br>
 
-### ⚒️ Current Projects
+<div align="center">
+  <h3>⚒️ Current Projects</h3>
 </div>
+
+<br>
 
 - 🧠 **MAVLC** – A Matrix-Vector-based compiler built from scratch.
 - 🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
@@ -47,6 +51,5 @@
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=9146FF&height=100" width="100%"/>
 </div>
