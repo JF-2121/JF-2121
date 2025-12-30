@@ -24,11 +24,18 @@
 </div>
 
 <br>
+<div align="center">
 
-- 🎓 Currently studying **B.Sc. - Computer Science**
-- 🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
-- 🔍 Passionate about **Low-Level Development**, **Parsers**, and **Game Engines**
-- 💬 Ask me about **Java, C++, Compiler Construction & Automation**
+🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
+
+🔍 Passionate about **Low-Level Development**, **Parsers**, and **Game Engines**
+
+💬 Ask me about **Java, C++, Compiler Construction & Automation**
+
+🎓 Currently studying **B.Sc. - Computer Science**
+
+</div>
+
 
 <br>
 
@@ -38,9 +45,16 @@
 
 <br>
 
-- 🧠 **C++** – Optimizing and Building a modern Parallel C++ Pipeline.
-- 🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
-- 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
+<div align="center">
+  
+🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
+
+📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
+
+🧠 **C++** – Optimizing and Building a modern Parallel C++ Pipeline.
+
+</div>
+
 
 ---
 <h3 align="center">📊 GitHub Analytics</h3>
