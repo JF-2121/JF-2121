@@ -64,6 +64,4 @@
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,java,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=9146FF&height=70" width="100%"/>
-</div>
+
