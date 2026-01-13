@@ -13,7 +13,7 @@
 <h3 align="center">🛠️ My Tech Toolbox</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,html,css,androidstudio,grafana,docker,linux,windows,apple,git,github,vscode&perline=15" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,dart,html,css,androidstudio,grafana,docker,git,github,vscode,linux,windows,apple&perline=15" />
   </a>
 </div>
 
