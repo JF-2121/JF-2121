@@ -63,5 +63,3 @@
   <br></br>
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,java,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
-
-
