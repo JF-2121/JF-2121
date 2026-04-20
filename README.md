@@ -33,6 +33,7 @@
 💬 Ask me about **Java, C++, Compiler Construction & Automation**
 
 🎓 Currently studying **B.Sc. - Computer Science**
+/Currently working on **Course Certificates**
 
 </div>
 
