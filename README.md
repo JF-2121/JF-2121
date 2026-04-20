@@ -27,7 +27,7 @@
 <div align="center">
 
 🎓 Currently studying **B.Sc. - Computer Science**
-/ Currently working on **Course Certificates**c
+/ Currently working on **Course Certificates**
 
 🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
 
