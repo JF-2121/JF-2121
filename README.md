@@ -26,14 +26,14 @@
 <br>
 <div align="center">
 
+🎓 Currently studying **B.Sc. - Computer Science**
+/ Currently working on **Course Certificates**c
+
 🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
 
 🔍 Passionate about **Low-Level Development**, **Parsers**, and **Game Engines**
 
 💬 Ask me about **Java, C++, Compiler Construction & Automation**
-
-🎓 Currently studying **B.Sc. - Computer Science**
-/Currently working on **Course Certificates**
 
 </div>
 
