@@ -48,11 +48,11 @@
 
 <div align="center">
   
+🧠 **Google Cloud Cybersecurity Certificates** - Getting Certificates done using `Google skills`.
+
 🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
 
 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
-
-🧠 **C++** – Optimizing and Building a modern Parallel C++ Pipeline.
 
 </div>
 
