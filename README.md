@@ -56,8 +56,17 @@
 
 </div>
 
+---
+
+<h3 align="center">🏅 Certifications & Badges</h3>
+<div align="center">
+  <a href="https://www.skills.google/public_profiles/399f8f4a-112b-49e2-ace5-0fae1908f732">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Overview-9146FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" />
+  </a>
+</div>
 
 ---
+
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
