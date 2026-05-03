@@ -29,9 +29,9 @@
 🎓 Currently studying **B.Sc. - Computer Science**
 / Currently working on **Course Certificates**
 
-🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
+🔍 Passionate about **Low-Level Development**, **Parsers**, **Game Engines** and **Cybersecurity**
 
-🔍 Passionate about **Low-Level Development**, **Parsers**, and **Game Engines**
+🏢 Working on Frontend, Backend & Language Design at **TU Darmstadt & Freelance**
 
 💬 Ask me about **Java, C++, Compiler Construction & Automation**
 
@@ -47,12 +47,12 @@
 <br>
 
 <div align="center">
-  
-🧠 **Google Cloud Cybersecurity Certificates** - Getting Certificates done using `Google skills`.
 
 🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
 
 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
+
+🧠 **Google Cloud Cybersecurity Certificates** - Getting Certificates done using `Google skills`.
 
 </div>
 
