@@ -17,6 +17,13 @@
   </a>
 </div>
 
+<div align="center">
+  <h3>My Developer Profiles</h3>
+  <a href="https://me.developers.google.com/u/114161833568691681636" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Dev_Profile-EA4335?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4" alt="Google DEV Profile" />
+  </a>
+</div>
+
 ---
 
 <h3 align="center">🛠️ My Tech Toolbox</h3>
