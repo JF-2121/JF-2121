@@ -10,6 +10,13 @@
 
 ---
 
+<div align="center">
+  <h3>📊 My Developer Profile</h3>
+  <a href="https://me.developers.google.com/u/114161833568691681636" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Dev_Profile-9146FF?style=for-the-badge&logo=google&logoColor=white&labelColor=grey" alt="Google DEV Profile" />
+  </a>
+</div>
+
 <h3 align="center">🏅 Certifications & Badges</h3>
 <div align="center">
   <a href="https://www.skills.google/public_profiles/399f8f4a-112b-49e2-ace5-0fae1908f732">
@@ -17,12 +24,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>📊 My Developer Profile</h3>
-  <a href="https://me.developers.google.com/u/114161833568691681636" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Dev_Profile-9146FF?style=for-the-badge&logo=google&logoColor=white&labelColor=grey" alt="Google DEV Profile" />
-  </a>
-</div>
 
 ---
 
