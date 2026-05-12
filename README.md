@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <h3>My Developer Profile</h3>
+  <h3>📊 My Developer Profile</h3>
   <a href="https://me.developers.google.com/u/114161833568691681636" target="_blank">
     <img src="https://img.shields.io/badge/Google-Dev_Profile-9146FF?style=for-the-badge&logo=google&logoColor=white&labelColor=grey" alt="Google DEV Profile" />
   </a>
