@@ -24,10 +24,7 @@
   </a>
 </div>
 
-
 ---
-
-
 
 <h3 align="center">🛠️ My Tech Toolbox</h3>
 <div align="center">
