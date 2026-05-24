@@ -9,12 +9,11 @@
     <em>Developer | Compiler Enthusiast | Multi-OS Workflow</em>
   </p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Main-NixOS-blueviolet?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS Main" />
-    <img src="https://img.shields.io/badge/Secondary-macOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" />
-    <img src="https://img.shields.io/badge/Secondary-Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" />
+<p>
+    <a href="https://nixos.org/" target="_blank"><img src="https://img.shields.io/badge/Main-NixOS-blueviolet?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS Main" /></a><a href="https://support.apple.com/en-us/102662" target="_blank"><img src="https://img.shields.io/badge/Secondary-macOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" /></a><a href="https://www.microsoft.com/software-download/windows11" target="_blank"><img src="https://img.shields.io/badge/Secondary-Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" /></a>
   </p>
 </div>
+
 
 ---
 
