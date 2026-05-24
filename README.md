@@ -1,10 +1,19 @@
 <div align="center">
+  <!-- Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Josh+%F0%9F%98%8E;B.Sc.+Computer+Science;System-Level+Explorer;Compiler+Enthusiast" alt="Typing SVG" />
   
   <p>
-    <em>Developer | Compiler Enthusiast | System-Level Explorer</em>
+    <em>Developer | Compiler Enthusiast | Multi-OS Workflow</em>
   </p>
-  
+
+  <!-- OS Hierarchy Indicator -->
+  <p>
+    <img src="https://img.shields.io/badge/Main-NixOS-informational?style=for-the-badge&logo=nixos&logoColor=5277C3" alt="NixOS Main" />
+    <img src="https://img.shields.io/badge/Secondary-macOS-lightgrey?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" />
+    <img src="https://img.shields.io/badge/Secondary-Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" />
+  </p>
+
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
