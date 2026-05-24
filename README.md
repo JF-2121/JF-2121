@@ -34,12 +34,11 @@
   <a href="https://www.credly.com/badges/5da5b7f5-bcf7-426a-bc7c-5c0161ce0f9a/public_url">
     <img src="https://img.shields.io/badge/Credly-Certified-blueviolet?style=for-the-badge&logo=credly&logoColor=white" alt="My New Certification" />
   </a>
+  <br>
   <a href="https://www.skills.google/public_profiles/399f8f4a-112b-49e2-ace5-0fae1908f732">
     <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Overview-9146FF?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills" />
   </a>
 </div>
-
- 
 
 ---
 
