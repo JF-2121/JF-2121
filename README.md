@@ -1,24 +1,23 @@
-<div align="center">
-  <!-- Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Josh+%F0%9F%98%8E;B.Sc.+Computer+Science;System-Level+Explorer;Compiler+Enthusiast" alt="Typing SVG" />
-  
-  <p>
-    <em>Developer | Compiler Enthusiast | Multi-OS Workflow</em>
-  </p>
-
-
-
-
-<!-- OS Hierarchy Indicator -->
-  <p>
-    <img src="https://img.shields.io/badge/Main-NixOS-blueviolet?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS Main" />
-    <img src="https://img.shields.io/badge/Secondary-macOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" />
-    <img src="https://img.shields.io/badge/Secondary-Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" />
-  </p>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
+<table width="100%" style="border: none;">
+  <tr>
+    <td align="right" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Josh+%F0%9F%98%8E;B.Sc.+Computer+Science;System-Level+Explorer;Compiler+Enthusiast" alt="Typing SVG" />
+      <p>
+        <em>Developer | Compiler Enthusiast | Multi-OS Workflow</em>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Main-NixOS-blueviolet?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS Main" />
+        <img src="https://img.shields.io/badge/Secondary-macOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" />
+        <img src="https://img.shields.io/badge/Secondary-Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,6 +55,7 @@
 </div>
 
 <br>
+
 <div align="center">
 
 🎓 Currently studying **B.Sc. - Computer Science**
@@ -68,7 +68,6 @@
 💬 Ask me about **Java, C++, Compiler Construction & Automation**
 
 </div>
-
 
 <br>
 
@@ -88,12 +87,11 @@
 
 </div>
 
-
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api?username=jf-2121&theme=radical&hide_border=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
-  <br></br>
+  <br><br>
   <img src="https://github-readme-stats-beta-henna-93.vercel.app/api/top-langs/?username=jf-2121&hide=jupyter%20notebook,java,html,javascript,css&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
