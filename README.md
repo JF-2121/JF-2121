@@ -8,6 +8,8 @@
   <p>
     <em>Developer | Compiler Enthusiast | Multi-OS Workflow</em>
   </p>
+
+  Linkedin  
   
 <p>
     <a href="https://nixos.org/" target="_blank"><img src="https://img.shields.io/badge/Main-NixOS-blueviolet?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS Main" /></a><a href="https://www.apple.com/" target="_blank"><img src="https://img.shields.io/badge/Secondary-macOS-blueviolet?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Secondary" /></a><a href="https://www.microsoft.com/en-us" target="_blank"><img src="https://img.shields.io/badge/Secondary-Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Secondary" /></a>
