@@ -76,11 +76,12 @@
 
 <div align="center">
 
-🎮 **AuD Exam Prepp Tool** – Exam Prepp built with Ts `TS + CSS`.
-
 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
 
-🧠 **Google Cloud Cybersecurity Certificates** - Getting Certificates done using `Google skills`.
+🎮 **AuD Exam Prep Web App** – Web application built with TypeScript and CSS for exam preparation and practice problems. 
+
+🤖 **Discord Bots Ecosystem** – High-throughput second-hand fashion tracking system managing parallel Python (`SearchBot`) and TypeScript (`SnipeBot`) services via PM2. 
+
 
 </div>
 
