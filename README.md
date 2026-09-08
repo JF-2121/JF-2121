@@ -76,7 +76,7 @@
 
 <div align="center">
 
-🎮 **RPG Engine** – Modular game systems using `Unity + C#`.
+🎮 **AuD Exam Prepp Tool** – Exam Prepp built with Ts `TS + CSS`.
 
 📈 **System Viz** – Exploring metrics with `Grafana + Prometheus`.
 
