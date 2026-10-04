@@ -1,6 +1,9 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=jf-2121&color=blueviolet&style=flat&label=Profile+views&v=1" alt="Profile Views" />
+</div>
 
 <div align="right">
-  <img src="https://u8views.com/api/v1/github/profiles/jf-2121/views/day-week-month-total-count.svg" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile+views&query=count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fjf-2121%2Fprofile%2Fup" alt="Profile Views" />
 </div>
 
 <div align="center">
