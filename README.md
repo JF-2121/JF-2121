@@ -1,5 +1,6 @@
+
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=jf-2121&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://u8views.com/api/v1/github/profiles/jf-2121/views/day-week-month-total-count.svg" alt="Profile Views" />
 </div>
 
 <div align="center">
