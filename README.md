@@ -2,9 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=jf-2121&color=blueviolet&style=flat&label=Profile+views&v=1" alt="Profile Views" />
 </div>
 
-<div align="right">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile+views&query=count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fjf-2121%2Fprofile%2Fup" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Josh+%F0%9F%98%8E;B.Sc.+Computer+Science;System-Level+Explorer;Compiler+Enthusiast" alt="Typing SVG" />
